@@ -1,4 +1,4 @@
-Welcome to Repository<3
+Hi There! Welcome to my Repository<3
 
 This repository is where I keep my coding exercises, experiments, and random stuff I make while learning programming. Nothing too serious here — just me trying things out, making mistakes, fixing them, and hopefully getting better along the way. 😭
 
